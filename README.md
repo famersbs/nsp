@@ -1,0 +1,4 @@
+nsp
+===
+
+Namvi SharedMemory Platform
